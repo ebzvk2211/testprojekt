@@ -1,6 +1,6 @@
 # testprojekt
 
-A new Flutter project.
+A new Flutter project – zum Testen da.
 
 ## Getting Started
 
